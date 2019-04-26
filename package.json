@@ -1,7 +1,7 @@
 {
   "name": "log-payload",
   "version": "1.0.0",
-  "description": "",
+  "description": "Edge Microgateway plugin which logs request/response headers and payloads",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
